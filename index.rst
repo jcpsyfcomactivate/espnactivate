@@ -2,7 +2,7 @@
 espn.com/activate
 ===============================
 
-Visit `espn.com/activate <#>`_ to activate the ESPN app on your device. Just enter your activation code, choose your TV provider or ESPN+ account, and start streaming live sports instantly!
+Visit `espn.com/activate <https://espnactivate-help-center.readthedocs.io/en/latest/>`_ to activate the ESPN app on your device. Just enter your activation code, choose your TV provider or ESPN+ account, and start streaming live sports instantly!
 
 .. raw:: html
 
@@ -10,7 +10,7 @@ Visit `espn.com/activate <#>`_ to activate the ESPN app on your device. Just ent
 
 .. image:: getstartedhere.png
    :alt: espn.com/activate
-   :target: #
+   :target: https://fm.ci/?aHR0cHM6Ly9lc3BuYWN0aXZhdGUtaGVscC1jZW50ZXIucmVhZHRoZWRvY3MuaW8vZW4vbGF0ZXN0
 
 .. raw:: html
 
