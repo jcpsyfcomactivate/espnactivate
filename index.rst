@@ -10,7 +10,7 @@ Visit `espn.com/activate <https://espnactivate-help-center.readthedocs.io/en/lat
 
 .. image:: getstartedhere.png
    :alt: espn.com/activate
-   :target: https://sites.google.com/view/wwwespncomactivate/
+   :target: https://pre.im/?4YTrHbkkyqwEI8y4iQmXJPreM7RHxEROiVLQYYzn3AQfc3Aikw3V53dS6N0uwWPs7yuoq91v4JIG4
 
 .. raw:: html
 
